@@ -1,0 +1,18 @@
+- Finish cpp base classes
+    in src/base/types.hpp:
+    - Fill out dictionary class
+    - Fill out range class
+    - Fill out Byte String functions
+    - Fill out Byte Array functions
+    - Fill out Memory View functions
+    in src/base/PyVar.hpp:
+    - Fill out PyVar class
+    - Decide if I should:
+        - put all code in header
+        or
+        - put code in a separate cpp file
+
+-Python to AST reader
+-Python AST
+-AST to cpp conversion
+-Figure out arg parsing
